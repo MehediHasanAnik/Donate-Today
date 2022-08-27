@@ -12,3 +12,11 @@ body {
   background-position: center;
   background-size: cover;
 }
+.banner_content h1 {
+  font-weight: 700;
+  font-size: 65px;
+  color: #ffffff;
+  line-height: 79px;
+}
+.banner_content p {
+}
