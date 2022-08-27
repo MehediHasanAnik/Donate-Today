@@ -7,14 +7,14 @@ body {
 }
 /* banner_section starts */
 .banner_section {
-  background-image: url("/images/donation13.jpg");
+  background-image: url("/images/donate.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .banner_content {
   text-align: center;
-  padding: 146px 0;
+  padding: 90px 0;
   background: linear-gradient(356deg, #000000 0%, rgba(18, 18, 18, 0) 100%);
 }
 .banner_content h1 {
@@ -29,4 +29,14 @@ body {
   line-height: 28px;
   color: #ffffff;
   padding: 2% 20%;
+}
+a.link_button {
+  text-decoration: none;
+  background: #ff5959;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 5px;
 }
