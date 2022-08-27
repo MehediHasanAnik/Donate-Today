@@ -7,10 +7,15 @@ body {
 }
 /* banner_section starts */
 .banner_section {
-  background-image: url("/images/donation0.jpg");
+  background-image: url("/images/donation13.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+.banner_content {
+  text-align: center;
+  padding: 146px 0;
+  background: linear-gradient(356deg, #000000 0%, rgba(18, 18, 18, 0) 100%);
 }
 .banner_content h1 {
   font-weight: 700;
@@ -19,4 +24,9 @@ body {
   line-height: 79px;
 }
 .banner_content p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  padding: 2% 20%;
 }
