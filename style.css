@@ -156,3 +156,11 @@ section.donate_plan_section {
 .color_gray {
   background: #fff4d6;
 }
+/* donate_plan_ends */
+/* survival section starts */
+.survival_main_container {
+  display: flex;
+}
+.survival_left {
+  width: 40%;
+}
