@@ -45,3 +45,18 @@ a.link_button {
 .donate_now_container {
   padding: 3% 5%;
 }
+.donate_despcription {
+  text-align: center;
+}
+.donate_despcription h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54px;
+  color: #121212;
+}
+.donate_despcription p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #707070;
+}
