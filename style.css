@@ -60,3 +60,18 @@ a.link_button {
   line-height: 28px;
   color: #707070;
 }
+.donate_despcription {
+  text-align: center;
+  padding: 0 17%;
+}
+.donation_amount {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.donation_amount {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4% 15%;
+}
