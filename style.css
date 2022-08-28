@@ -157,10 +157,30 @@ section.donate_plan_section {
   background: #fff4d6;
 }
 /* donate_plan_ends */
+
 /* survival section starts */
 .survival_main_container {
   display: flex;
+  margin-left: 10%;
 }
 .survival_left {
   width: 40%;
+}
+.survival_right {
+  width: 40%;
+}
+.survival_left_img img {
+  width: 82%;
+}
+.survival_right_descrip h2 {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 50px;
+}
+.survival_right_descrip p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #707070;
+  margin-top: 15px;
 }
