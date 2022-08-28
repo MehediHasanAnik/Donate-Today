@@ -41,3 +41,7 @@ a.link_button {
   border-radius: 5px;
 }
 /* banner_section ends */
+/* donation starts */
+.donate_now_container {
+  padding: 3% 5%;
+}
