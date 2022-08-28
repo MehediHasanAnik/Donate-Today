@@ -89,9 +89,13 @@ a.link_button {
 }
 input#name {
   border: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #b3b3b3;
 }
 .border_amount {
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid #dadada;
   width: 70%;
   margin-left: 15%;
 }
