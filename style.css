@@ -192,12 +192,22 @@ p.para {
 /* survival section ends */
 /* updated section starts */
 .update_descp {
-  padding: 62px 0;
+  padding: 0 0;
   text-align: center;
 }
-.update_descp p {
-  padding: 0 30%;
+.update_descp h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54px;
 }
+.update_descp p {
+  padding: 2% 30%;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #707070;
+}
+
 .email_subcription_container {
   display: flex;
   justify-content: center;
