@@ -123,6 +123,7 @@ section.donate_plan_section {
 }
 .card_img img {
   margin-bottom: 20px;
+  width: 20%;
 }
 .dontate_plan_card_item h5 {
   padding-bottom: 10px;
@@ -135,5 +136,17 @@ section.donate_plan_section {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  color: #707070;
+}
+.donate_plan_descrip h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54px;
+  padding-bottom: 13px;
+}
+.donate_plan_descrip p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
   color: #707070;
 }
