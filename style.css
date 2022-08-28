@@ -189,3 +189,12 @@ section.donate_plan_section {
 p.para {
   margin-bottom: 40px;
 }
+/* survival section ends */
+/* updated section starts */
+.update_descp {
+  padding: 62px 0;
+  text-align: center;
+}
+.update_descp p {
+  padding: 0 30%;
+}
