@@ -75,3 +75,12 @@ a.link_button {
   align-items: center;
   padding: 4% 15%;
 }
+.donation_amount h2 {
+  padding: 29px 15px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  background: #7070702e;
+  color: #707070;
+  border-radius: 5px;
+}
