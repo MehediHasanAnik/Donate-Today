@@ -161,7 +161,8 @@ section.donate_plan_section {
 /* survival section starts */
 .survival_main_container {
   display: flex;
-  margin-left: 10%;
+  margin-left: 6%;
+  justify-content: space-evenly;
 }
 .survival_left {
   width: 40%;
@@ -178,9 +179,13 @@ section.donate_plan_section {
   line-height: 50px;
 }
 .survival_right_descrip p {
+  text-align: justify;
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
-  color: #707070;
+  color: rgb(112, 112, 112);
   margin-top: 15px;
+}
+p.para {
+  margin-bottom: 40px;
 }
