@@ -150,3 +150,9 @@ section.donate_plan_section {
   line-height: 28px;
   color: #707070;
 }
+.color_pink {
+  background: #ff59591a;
+}
+.color_gray {
+  background: #fff4d6;
+}
