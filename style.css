@@ -111,22 +111,29 @@ section.donate_plan_section {
 }
 .donate_plan_card {
   width: 80%;
-  height: 82vh;
   display: flex;
   align-items: center;
   margin-left: 10%;
+  margin-top: 40px;
 }
 .dontate_plan_card_item {
   background: #4f9da61a;
   margin-left: 33px;
-  padding: 65px 7px;
+  padding: 65px 25px;
 }
 .card_img img {
   margin-bottom: 20px;
 }
 .dontate_plan_card_item h5 {
+  padding-bottom: 10px;
   font-weight: 600;
   font-size: 24px;
   line-height: 36px;
   color: #121212;
+}
+.dontate_plan_card_item p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #707070;
 }
