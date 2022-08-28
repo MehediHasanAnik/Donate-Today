@@ -198,3 +198,22 @@ p.para {
 .update_descp p {
   padding: 0 30%;
 }
+.email_subcription_container {
+  display: flex;
+  justify-content: center;
+}
+a.subsription_button {
+  text-decoration: none;
+  background: #ff5959;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  padding: 9px;
+  border-radius: 5px;
+}
+.email_subcription {
+  background: #fff4d6;
+  padding: 64px 0;
+  margin: 0px 13%;
+}
