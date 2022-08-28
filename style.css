@@ -219,7 +219,7 @@ a.subsription_button {
   margin: 0px 13%;
 }
 input.email {
-  padding: 10px 30px;
+  padding: 12px 30px;
   font-weight: 500;
   font-size: 16px;
   color: #aa9f9f;
@@ -227,7 +227,7 @@ input.email {
   text-align: left;
   border: navajowhite;
   background: #d9d9d9;
-  border-radius: 5px;
+  border-radius: 5px 0px 0px 5px;
 }
 .email_input {
   margin: -10px;
