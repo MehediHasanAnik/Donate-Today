@@ -85,14 +85,13 @@ a.link_button {
   border-radius: 5px;
 }
 .other_donation_amount {
-  position: relative;
-  padding: 2% 43%;
+  text-align: center;
 }
 input#name {
   border: none;
 }
-hr.horizontal_line {
-  position: absolute;
+.border_amount {
+  border-bottom: 1px solid red;
   width: 70%;
-  left: 15%;
+  margin-left: 15%;
 }
