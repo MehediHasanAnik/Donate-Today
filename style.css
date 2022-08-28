@@ -101,3 +101,20 @@ input#name {
   margin-bottom: 45px;
 }
 /* donate_now_section ends */
+/* donate plan started */
+section.donate_plan_section {
+  padding: 17px 0 100px 0;
+}
+.donate_plan_descrip {
+  width: 100%;
+  text-align: center;
+}
+.donate_plan_card {
+  display: flex;
+  justify-content: space-evenly;
+}
+.dontate_plan_card_item {
+  background: #4f9da61a;
+  margin-left: 24px;
+  padding: 43px 45px;
+}
