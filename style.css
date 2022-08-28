@@ -191,6 +191,9 @@ p.para {
 }
 /* survival section ends */
 /* updated section starts */
+.update_section {
+  padding: 70px 0;
+}
 .update_descp {
   padding: 0 0;
   text-align: center;
@@ -241,4 +244,13 @@ input.email {
 }
 .email_input {
   margin: -10px;
+}
+/* end */
+.footer {
+  text-align: center;
+}
+footer {
+  background: #000000;
+  padding: 4% 0;
+  color: #ffffff;
 }
